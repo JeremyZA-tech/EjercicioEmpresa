@@ -1,0 +1,12 @@
+#SQLite
+db = sqlite
+driver = org.sqlite.JDBC
+dsn = jdbc:sqlite:agenda.sqlite
+
+
+#MariaDB
+#db = mariadb
+#driver = org.mariadb.jdbc.Driver
+#dsn = jdbc:mariadb://localhost:3307/empresa
+#user = root
+#pass = root
